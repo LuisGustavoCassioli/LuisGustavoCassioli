@@ -1,0 +1,21 @@
+{
+  "name": "luisgustavocassioli",
+  "version": "2.0.0",
+  "description": "Meu perfil profissional do GitHub",
+  "main": "index.js",
+  "scripts": {
+    "update": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisGustavoCassioli/LuisGustavoCassioli.git"
+  },
+  "keywords": [
+    "github-profile",
+    "readme",
+    "portfolio"
+  ],
+  "author": "Luis Gustavo Cassioli",
+  "license": "MIT"
+}
