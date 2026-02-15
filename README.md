@@ -172,7 +172,7 @@
 </p>
 
 <p align="center">
-  <i>“Computer programs are the most complex things that humans make.” – Douglas Crockford</i>
+  <i>“Computer programs are the most complex things that humans make.” – Duglas Crockford</i>
 </p>
 
 <p align="center">
