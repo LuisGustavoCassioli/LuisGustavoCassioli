@@ -61,7 +61,7 @@ Full-stack web application integrating authentication, relational persistence an
 https://meu-jarvis-inky.vercel.app
 
 📦 Repository:  
-https://github.com/LuisGustavoCassioli
+https://github.com/LuisGustavoCassioli/meu-jarvis
 
 ---
 
