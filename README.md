@@ -1,72 +1,48 @@
-# Luis Gustavo Cassioli
+## Luis Gustavo Cassioli
 
-Front-End Developer specialized in React.js, Next.js and TypeScript.  
-I build scalable, production-ready web applications with clean architecture and real-world API integrations.  
-Available for remote opportunities (LATAM / International).
-
----
-
-## 👨‍💻 About Me
-
-I design and develop modern web applications with strong front-end foundations and full-stack integration when required.
-
-My work emphasizes:
-
-- Component-driven UI architecture
-- REST API integration and authentication flows
-- Relational data modeling (PostgreSQL)
-- Modular structure and clean code principles
-- Production deployment workflows (Vercel)
-
-I approach software the same way I approach music as a guitarist: structure, timing, precision and consistency.
+Full Stack Developer focused on React, Node.js and TypeScript.
+I build complete web applications — from REST APIs to modern, production-ready interfaces.
+Open to remote opportunities (Brazil / International).
 
 ---
 
-## 🛠 Tech Stack
+## About me
 
-### Front-End
-- React.js
-- Next.js
-- TypeScript
-- JavaScript (ES6+)
-- Tailwind CSS
-- HTML5 / CSS3
+I design and develop modern web applications with strong full-stack foundations.
 
-### Backend & Integration
-- Supabase
-- REST APIs
-- PostgreSQL
-- SQL
-
-### Tools & Workflow
-- Git
-- GitHub
-- Vercel
+My work focuses on:
+- Component-driven UI with React and TypeScript
+- Back-End integration with Node.js and REST APIs
+- Authentication and relational data modeling with Supabase (PostgreSQL)
+- Production deployment with Vercel
+- Clean code and modular architecture
 
 ---
 
-## 🚀 Featured Project
+## Tech Stack
 
-### Meu Jarvis — AI-Powered Web Application
-
-Full-stack web application integrating authentication, relational persistence and AI-powered responses.
-
-**Key highlights:**
-- Modular front-end architecture (React + TypeScript)
-- Authentication and relational database integration (Supabase / PostgreSQL)
-- External AI API integration (Groq)
-- Secure environment configuration and production deployment via Vercel
-
-🔗 Live Demo:  
-https://meu-jarvis-inky.vercel.app
-
-📦 Repository:  
-https://github.com/LuisGustavoCassioli/meu-jarvis
+**Front-End:** React · TypeScript · JavaScript (ES6+) · Vite · Tailwind CSS · HTML/CSS
+**Back-End:** Node.js · REST APIs · Supabase
+**Database:** PostgreSQL · SQL
+**Tools:** Git · GitHub · Vercel
 
 ---
 
-## 📬 Contact
+## Featured Projects
 
-📧 luisgustavocassiolirodrigues@gmail.com  
-🔗 LinkedIn:  
-https://linkedin.com/in/luis-gustavo-cassioli-rodrigues  
+### Meu Jarvis — AI-Powered Web App
+Full-stack application with AI integration (Groq), authentication and relational database.
+- Stack: React + TypeScript + Supabase + PostgreSQL
+- Deploy: https://meu-jarvis-inky.vercel.app
+- Repo: https://github.com/LuisGustavoCassioli/meu-jarvis
+
+### CodeGames — Game E-commerce
+Front-end e-commerce with dynamic catalog, cart, authentication and checkout.
+- Stack: HTML · CSS · JavaScript Vanilla
+- Repo: https://github.com/LuisGustavoCassioli/CodeGames
+
+---
+
+## Contact
+Email: luisgustavocassiolirodrigues@gmail.com
+LinkedIn: https://linkedin.com/in/luis-gustavo-cassioli-rodrigues
