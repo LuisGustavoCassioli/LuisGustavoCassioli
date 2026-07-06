@@ -1,55 +1,48 @@
-## Luis Gustavo Cassioli
+# Hey there! 👋
 
-Full Stack Software Developer focused on React, Node.js, Java and TypeScript.
-I build complete web applications — from scalable REST APIs to modern, production-ready interfaces.
-Open to remote opportunities (Brazil / International).
+I'm **Luis Gustavo**, a Full Stack Software Developer from Brazil.
 
----
+I build modern web applications using React, TypeScript, Node.js and Java.
 
-## About me
+Currently I'm focused on improving my full-stack skills while building personal projects and exploring software architecture.
 
-I design and develop modern web applications with strong full-stack foundations.
+My main stack is React, TypeScript, Node.js, Java, PostgreSQL.
 
-My work focuses on:
-
-* Component-driven UI with React and TypeScript
-* Back-end development with Node.js, Java and REST APIs
-* Authentication and relational data modeling with PostgreSQL and Supabase
-* Production deployment with Vercel
-* Clean code and modular architecture
-
----
-
-## Tech Stack
-
-**Front-End:** React · TypeScript · JavaScript (ES6+) · Vite · Tailwind CSS · HTML/CSS
-**Back-End:** Node.js · Java · Spring Boot · REST APIs
-**Database:** PostgreSQL · Supabase · SQL
-**Tools:** Git · GitHub · Vercel
-
----
+I've built projects ranging from AI-powered applications to e-commerce platforms, always aiming for clean code and practical solutions.
 
 ## Featured Projects
 
-### Meu Jarvis — AI-Powered Web App
+### 🚀 Meu Jarvis
 
-Full-stack application with AI integration (Groq), authentication and relational database.
+AI-powered web application built with React, TypeScript and Supabase.
 
-* Stack: React + TypeScript + Supabase + PostgreSQL
-* Deploy: https://meu-jarvis-inky.vercel.app
-* Repo: https://github.com/LuisGustavoCassioli/meu-jarvis
+- Live: https://meu-jarvis-inky.vercel.app
+- Repository: https://github.com/LuisGustavoCassioli/meu-jarvis
 
-### CodeGames — Game E-commerce
+### 🎮 CodeGames
 
-Front-end e-commerce with dynamic catalog, cart, authentication and checkout.
+Game e-commerce built with HTML, CSS and JavaScript.
 
-* Stack: HTML · CSS · JavaScript Vanilla
-* Repo: https://github.com/LuisGustavoCassioli/CodeGames
+- Repository:
+  https://github.com/LuisGustavoCassioli/CodeGames
 
----
+## Tech Stack
+
+- React
+- TypeScript
+- JavaScript
+- Node.js
+- Java
+- Spring Boot
+- PostgreSQL
+- Supabase
+- Tailwind CSS
+- Git
+- GitHub
+- Vercel
 
 ## Contact
 
-Email: [luisgustavocassiolirodrigues@gmail.com](mailto:luisgustavocassiolirodrigues@gmail.com)
+📧 luisgustavocassiolirodrigues@gmail.com
 
-LinkedIn: https://linkedin.com/in/luis-gustavo-cassioli-rodrigues
+💼 https://linkedin.com/in/luis-gustavo-cassioli-rodrigues
